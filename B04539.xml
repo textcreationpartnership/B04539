@@ -1,0 +1,460 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A new ballad; declaring The excellent parable of the prodigal child. To the tune of, The wanton wife.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663-1674?</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04539</idno>
+            <idno type="STC">Wing N557B</idno>
+            <idno type="STC">ESTC R234291</idno>
+            <idno type="EEBO-CITATION">47012541</idno>
+            <idno type="OCLC">ocm 47012541</idno>
+            <idno type="VID">174511</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04539)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174511)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2690:55)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A new ballad; declaring The excellent parable of the prodigal child. To the tune of, The wanton wife.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for F. Coles, T. Vere, and J. Wright.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[between 1663 and 1674]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Contains 3 illustrations.</note>
+                  <note>Place and date of publication taken from Wing (2nd ed.)</note>
+                  <note>Right half-sheet contains: The second part, shewing the great misery he endured, being constrained through hunger, to eat with the hogs, and how his merciful father received him again. To the same tune.</note>
+                  <note>Reproduction of original in: University of Glasgow. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+               <term>Prodigal son (Parable) --  Poetry.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:174511:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 8 -->
+            <head>A New Ballad; declaring the Excellent Parable of the Prodigal Child.</head>
+            <opener>To the Tune of, <hi>The wanton VVife.</hi>
+            </opener>
+            <p>
+               <figure/>
+            </p>
+            <div n="1" type="part">
+               <lg>
+                  <l>THere was a grave man, both wealthy and wiſe</l>
+                  <l>Two Sons had both proper and tall,</l>
+                  <l>The elder was very proper and very preciſe,</l>
+                  <l>The other <gap reason="illegible: missing" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> wildneſs did wholly incline,</l>
+                  <l>his Parents therefore,</l>
+                  <l>was grieved full ſore,</l>
+                  <l>A<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> migh<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y diſpleaſure egainſt him they bore,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>
+                           <gap reason="illegible" extent="2 words">
+                              <desc>〈◊◊〉</desc>
+                           </gap>remember delights are but vain,</hi>
+                     </l>
+                     <l>
+                        <hi>and after ſweet pleaſure comes ſorrow &amp; pain.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>This luſty brave youngſter that lived at eaſe,</l>
+                  <l>And never had taſted the temper of care,</l>
+                  <l>Quoth he if my doings your mind do diſpleaſe,</l>
+                  <l>Then give me my portion that falls to my ſhare,</l>
+                  <l>then ye ſhall not be,</l>
+                  <l>long troubled with me,</l>
+                  <l>Yet will I live gallant and pleaſant, quoth he,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>young men, &amp;c.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Oh, quoth his Parents, you wicked lewd Lad,</l>
+                  <l>What will become of thee where thou ſhalt go;</l>
+                  <l>Seeing thy government it is ſo bad,</l>
+                  <l>But miſery and beggery upon thee ſhall grow,</l>
+                  <l>qouth he if I knew,</l>
+                  <l>that this would be true,</l>
+                  <l>Be ſure I would never make moan unto you,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>young men, &amp;c.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>His Parents that ſaw him put him to flight,</l>
+                  <l>Paid him his portion without all delay:</l>
+                  <l>Saying good Sir, I pray take your flight,</l>
+                  <l>I mean not quoth he, in your preſence to ſtay,</l>
+                  <l>but now I will ſee</l>
+                  <l>each forraign Countrey,</l>
+                  <l>And view the world what faſhions there be,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>young men, &amp;c.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Thus in his jollity he rides along,</l>
+                  <l>And in his <unclear>apparel</unclear> moſt ſumptuous and brave,</l>
+                  <l>To view this brave gallant much people did throng,</l>
+                  <l>Where he like <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Prince himſelf did behave,</l>
+                  <l>yea honoured was he,</l>
+                  <l>with cap and with Knee,</l>
+                  <l>And at his command the proudeſt now be,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>young men, &amp;c.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>With muſick each morning his ears they had fed,</l>
+                  <l>Of gold and ſilver he maketh no ſpare,</l>
+                  <l>With flattering ſpeeches away he was led,</l>
+                  <l>His body is fed with delicate fare:</l>
+                  <l>what he doth require,</l>
+                  <l>he hath at his deſire,</l>
+                  <l>But ſuch as want money may lye in the mire,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>young men, &amp;c.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Proper fine women of beauty moſt bright,</l>
+                  <l>Do ſtrive for his favour and friendſhip each day,</l>
+                  <l>They call him their honey, their joy and delight,</l>
+                  <l>They Kiſs him, they cull him and wantonly play,</l>
+                  <l>they ſwear till they dye,</l>
+                  <l>though falſly they lye,</l>
+                  <l>He ſhall be their ſweet-heart and pritty pigs-nye,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>young men, &amp;c,</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Some gave him handkerchiefs, ſome gave him rings</l>
+                  <l>Some ſtrewd his windows with flowers ſo ſweet,</l>
+                  <l>Some to delight him both dances and ſings,</l>
+                  <l>Some with Roſe-water doth waſh his feet,</l>
+                  <l>and what ſhall I ſay,</l>
+                  <l>they took him away,</l>
+                  <l>They won him &amp; do him what kindneſs they may,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>young men, &amp;c.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Thus with their allurements, their winks, and their wiles</l>
+                  <l>They uſed to bewitch this prodigal boy:</l>
+                  <l>He buys with gold angels their kiſſes and ſmiles,</l>
+                  <l>And ſtores them with every new fangle and toy,</l>
+                  <l>he buys them new Gowns,</l>
+                  <l>and many fair pounds,</l>
+                  <l>In white-wine &amp; ſugar amongſt them he drowns,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>young men, &amp;c.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>VVhen he had upon them thus waſted his wealth,</l>
+                  <l>Conſumed his ſubſtance, his treaſure and ſtore,</l>
+                  <l>Yea, crackt all his credit with hazard of health,</l>
+                  <l>That he could banquet theſe Minions no more,</l>
+                  <l>with words of diſpight,</l>
+                  <l>they fly from his ſight,</l>
+                  <l>They call him baſe Raſcal, forſaking him quite,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>young men remember delights are but vain,</hi>
+                     </l>
+                     <l>
+                        <hi>and after ſweet pleaſure comes ſorrow &amp; pain.</hi>
+                     </l>
+                  </lg>
+               </lg>
+            </div>
+            <div n="2" type="part">
+               <head>The ſecond Part, ſhewing the great miſery he endured, being conſtrain<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d through hunger, to eat w<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th the Hogs, and how his merciful Father received him again.</head>
+               <opener>To the ſame Tun<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</opener>
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>THen was he brought to miſery great,</l>
+                  <l>His garments all ragged and torn you might ſée</l>
+                  <l>His body néer ſtarved for want of good meat</l>
+                  <l>His cloaths out at elbows, his hoſe broke at knee:</l>
+                  <l>and in his diſtreſs,</l>
+                  <l>he knew no redreſs,</l>
+                  <l>His harlots ſpit at him in his heavineſs.</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>You<gap reason="illegible: missing" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>g men remember delights are but vain,</hi>
+                     </l>
+                     <l>
+                        <hi>And after ſweet pleaſure comes ſorrow and pain.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Then bitterly mourning he went up and down,</l>
+                  <l>To get him a Maſter that might dine:</l>
+                  <l>At length a rich Citizen dwelling in town,</l>
+                  <l>Sends him to the Country to keep all his ſwine,</l>
+                  <l>whoſe hunger was great,</l>
+                  <l>for want of good meat,</l>
+                  <l>He ſat him down by the Hogs, husks for to eat:</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Young men, &amp;c.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>And <gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s by the Hogs he was feeding a pace,</l>
+                  <l>With many a ſigh and ſob he did ſay,</l>
+                  <l>Now I am brought to a pittiful caſe,</l>
+                  <l>Alack that my Parents I did diſobey,</l>
+                  <l>their ſervants at home,</l>
+                  <l>The very worſt Groom,</l>
+                  <l>Have meat and drink plenty and here I have none,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Young men, &amp;c.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Wherefore to my father again I will go,</l>
+                  <l>Asking him forgiveneſs for my lewd life,</l>
+                  <l>Shewing to him my grief and my woe.</l>
+                  <l>Reputing my folly that it ſet at ſtrife:</l>
+                  <l>then ſtraight the ſame day,</l>
+                  <l>he taketh his way,</l>
+                  <l>And came to his fathers in raged array,</l>
+                  <l>
+                     <hi>Youn<gap reason="illegible: missing" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> men, &amp;c.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>With bitter mourning he falls on his knee,</l>
+                  <l>Saying, dear father forgive what is done,</l>
+                  <l>For I have offended Chriſt Ieſus and thee,</l>
+                  <l>Vnworthy I am to be called thy ſon:</l>
+                  <l>yet do not diſdain,</l>
+                  <l>to take me again,</l>
+                  <l>As one of thy ſervants to take any pain;</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Young men, &amp;c.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>VVith that the tears fell from his fathers eyes,</l>
+                  <l>VVith joy and gladneſs they flow full faſt,</l>
+                  <l>He k<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſſed his ſon, and bid him ariſe,</l>
+                  <l>Saying I have found my child that was loſt,</l>
+                  <l>with garments full gay,</l>
+                  <l>he did him array,</l>
+                  <l>And killed a fat calf to honour that day,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>young men &amp;c.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>And gently led him by the hand,</l>
+                  <l>Great joy and melody there was made;</l>
+                  <l>But when his eldeſt brother did underſtand</l>
+                  <l>The truth of every thing that hath been ſaid,</l>
+                  <l>full angry was he,</l>
+                  <l>when this he did ſee,</l>
+                  <l>His prodigal brother thus honoured would be,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>young men, &amp;c.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>And to his father thus he did ſpeak,</l>
+                  <l>Long have I ſerved thee and many a day,</l>
+                  <l>And thy commandements never did break,</l>
+                  <l>But all my Life long I did thee obey;</l>
+                  <l>yet never found I,</l>
+                  <l>ſuch great courteſie</l>
+                  <l>As this wretched unthrift that let his wealth flye,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>young men, &amp;c.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>O, quoth his Father, conſider my Son,</l>
+                  <l>All that I have one day ſhall be thine,</l>
+                  <l>Then do not grudge at what I have done,</l>
+                  <l>Nor at thy poor brother do thou repine;</l>
+                  <l>for he was loſt plain,</l>
+                  <l>but is found again,</l>
+                  <l>He was dead, but now is riſen again,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>young men, &amp;c.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>This worthy Parable Chriſt he did tell,</l>
+                  <l>Vnto the comforte<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s of Chriſtians each one,</l>
+                  <l>Although by our wickedneſs we do rebel,</l>
+                  <l>Yet by true repentance our Father of Heaven</l>
+                  <l>doth pitty our eaſe</l>
+                  <l>receiving us to grace,</l>
+                  <l>In joys everlaſting with him to take pain,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>young men remember delights are but vain,</hi>
+                     </l>
+                     <l>
+                        <hi>and after ſweet pleaſures come ſorrow &amp; pain.</hi>
+                     </l>
+                  </lg>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Printed for <hi>F. Coles, T. Vere,</hi> and <hi>J. Wright.</hi>
+               </hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
